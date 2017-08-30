@@ -4,6 +4,7 @@ ntelliJ
 *.iws
 .idea/
 out/
+target/
 
 # Mac
 .DS_Store
